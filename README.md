@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"><b>Hi, I'm LederDevs </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <img src="https://github.com/LederDev/LederDev/assets/162763730/f0979567-8a43-487f-b9a7-4cb8058ec4cd">
+  <img src="https://github.com/Lederdevs/Lederdevs/assets/165498615/7f34b831-b7c3-48b1-9eda-163d2c01e812">
 
   <div class="header">
   </div>
