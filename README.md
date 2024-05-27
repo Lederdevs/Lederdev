@@ -6,7 +6,7 @@
   </div>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 <div>
   <p>
 Desarrollador de Software con experiencia en el diseño, desarrollo, pruebas e implementación de soluciones de software robustas y escalables. 
