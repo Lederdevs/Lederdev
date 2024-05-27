@@ -21,7 +21,7 @@ y comprometido con la entrega de productos de alta calidad que satisfacen las ne
 <!--Languages and Tools Section-->       
 <h2 align="left">Languages in Back-end</h2> 
 <p align="left">
-<img width="300px" src="https://skillicons.dev/icons?i=py,java,php,&perline=10"  />
+<img width="300px" src="https://skillicons.dev/icons?i=py,php,&perline=10"  />
 </p>
 <br />
   
