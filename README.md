@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><b>Hi, I'm LederDevs </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center"><b>Hi, I'm LederDev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <img src="https://github.com/Lederdevs/Lederdevs/assets/165498615/7f34b831-b7c3-48b1-9eda-163d2c01e812">
 
   <div class="header">
@@ -64,7 +64,7 @@ Soft Skills:
 <p align="left">
 <a href="https://github.com/LederDev"><img src="https://img.shields.io/badge/-LederDev-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/leder-castillo-65857a2a0/"><img src="https://img.shields.io/badge/-Leder_Castillo-blue?logo=linkedin&style=flat-square"></a>
-<a href="mailto:ledercs468@gmail.com"><img src="https://img.shields.io/badge/-ledercs468@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="mailto:ledercs468@gmail.com"><img src="https://img.shields.io/badge/-ledercastillocs@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
 </div>
 </ br>
